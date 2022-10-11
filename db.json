@@ -1,0 +1,32 @@
+{
+    "filiais": [
+      {
+        "id": 1,
+        "nome": "Ale importados"
+      },
+      {
+        "id": 2,
+        "nome": "Ale variedades"
+      }
+    ],
+    "categorias": [
+      {
+        "nome": "Moveis",
+        "descricao": "Teste",
+        "foto": "",
+        "id": 1
+      },
+      {
+        "nome": "Eletrodomesticos",
+        "descricao": "asdasd",
+        "foto": "",
+        "id": 2
+      },
+      {
+        "nome": "Teste",
+        "descricao": "teste 2",
+        "foto": "",
+        "id": 3
+      }
+    ]
+  }
